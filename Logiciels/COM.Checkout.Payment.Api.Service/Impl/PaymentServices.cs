@@ -14,7 +14,7 @@ namespace COM.Checkout.Payment.Api.Service.Impl
     [ExportMetadata("Name", "Smirt")]
     [System.ComponentModel.Composition.PartCreationPolicy(System.ComponentModel.Composition.CreationPolicy.NonShared)]
     public class PaymentServices : IPaymentServices
-    {
+    {   
         public PaymentServices()
         {    
                     
